@@ -2,6 +2,10 @@
   "name": "snakeify-snake-case-converter",
   "displayName": "Snakeify: Snake Case Converter",
   "publisher": "Renja",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renja-g/Snakeify"
+  },
   "description": "Convert text to snake case effortlessly in VS Code with Snakeify",
   "version": "0.0.1",
   "engines": {
